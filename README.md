@@ -1,5 +1,6 @@
 # DBMS_Project_FSM
-This is a project done by our group submitted to Mr Ashok Harnal as part of our course requirements
+This is a project done by our group submitted to Mr Ashok Harnal as part of our course requirements 
+Organistaion Chosen : Udemy 
 
 Udemy Clone Database Management System
 
